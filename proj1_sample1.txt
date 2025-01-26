@@ -1,0 +1,308 @@
+Welcome to the Spot The Difference Game
+What would you like to do?
+1. Load ASCII Art from File
+2. Display Art
+3. Play Game
+4. Exit
+0
+What would you like to do?
+1. Load ASCII Art from File
+2. Display Art
+3. Play Game
+4. Exit
+5
+What would you like to do?
+1. Load ASCII Art from File
+2. Display Art
+3. Play Game
+4. Exit
+1
+What is the name of the data file to import?
+pic
+File not found.
+What would you like to do?
+1. Load ASCII Art from File
+2. Display Art
+3. Play Game
+4. Exit
+2
+No file loaded.
+What would you like to do?
+1. Load ASCII Art from File
+2. Display Art
+3. Play Game
+4. Exit
+3
+No file loaded.
+What would you like to do?
+1. Load ASCII Art from File
+2. Display Art
+3. Play Game
+4. Exit
+1
+What is the name of the data file to import?
+pic1.txt
+Done
+What would you like to do?
+1. Load ASCII Art from File
+2. Display Art
+3. Play Game
+4. Exit
+2
+     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 
+ 0        _                                                       
+ 1  >  <  _  >                                                    
+ 2                                                                
+ 3                                                                
+ 4                                                                
+ 5                                                                
+ 6                                                                
+ 7                                                                
+ 8                                                                
+ 9                                                                
+What would you like to do?
+1. Load ASCII Art from File
+2. Display Art
+3. Play Game
+4. Exit
+3
+     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 
+ 0        _                                                       
+ 1  >  <  _  >                                                    
+ 2                                                                
+ 3                                                                
+ 4                                                                
+ 5                                                                
+ 6                                                                
+ 7                                                                
+ 8                                                                
+ 9                                                                
+     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 
+ 0        _                                                       
+ 1  >  <  _  >                                                    
+ 2     k                                                          
+ 3                                                                
+ 4                                                                
+ 5                                                                
+ 6                                                                
+ 7                                                                
+ 8                                                                
+ 9                                                                
+What row is the change in?
+2
+What column is the change in?
+1
+You are correct!
+What would you like to do?
+1. Load ASCII Art from File
+2. Display Art
+3. Play Game
+4. Exit
+2
+     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 
+ 0        _                                                       
+ 1  >  <  _  >                                                    
+ 2                                                                
+ 3                                                                
+ 4                                                                
+ 5                                                                
+ 6                                                                
+ 7                                                                
+ 8                                                                
+ 9                                                                
+What would you like to do?
+1. Load ASCII Art from File
+2. Display Art
+3. Play Game
+4. Exit
+3
+     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 
+ 0        _                                                       
+ 1  >  <  _  >                                                    
+ 2                                                                
+ 3                                                                
+ 4                                                                
+ 5                                                                
+ 6                                                                
+ 7                                                                
+ 8                                                                
+ 9                                                                
+     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 
+ 0        _                             P                         
+ 1  >  <  _  >                                                    
+ 2                                                                
+ 3                                                                
+ 4                                                                
+ 5                                                                
+ 6                                                                
+ 7                                                                
+ 8                                                                
+ 9                                                                
+What row is the change in?
+12
+What column is the change in?
+0
+That is incorrect!
+What row is the change in?
+0
+What column is the change in?
+12
+You are correct!
+What would you like to do?
+1. Load ASCII Art from File
+2. Display Art
+3. Play Game
+4. Exit
+1
+What is the name of the data file to import?
+pic3.txt
+Done
+What would you like to do?
+1. Load ASCII Art from File
+2. Display Art
+3. Play Game
+4. Exit
+2
+     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 
+ 0              /     \  _  _  _  _  _  _  _     /  |  _  \       
+ 1           /                                /  _  /     \  _  _ 
+ 2        /                                         \  _  /     / 
+ 3  _  |  _                                            |  /  |  _ 
+ 4  _  |  _        O              _              O        _  |  _ 
+ 5  _  |  _                    (  _  )                    _  |  _ 
+ 6        \                                               /       
+ 7        _  \  _  _  _  _  _  _  _  _  _  _  _  _  _  /  _       
+ 8     /        \  /        (  _  _  _  )        \  /        \    
+ 9     \  _  _  (        o                 o        )  _  _  /    
+What would you like to do?
+1. Load ASCII Art from File
+2. Display Art
+3. Play Game
+4. Exit
+3
+     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 
+ 0              /     \  _  _  _  _  _  _  _     /  |  _  \       
+ 1           /                                /  _  /     \  _  _ 
+ 2        /                                         \  _  /     / 
+ 3  _  |  _                                            |  /  |  _ 
+ 4  _  |  _        O              _              O        _  |  _ 
+ 5  _  |  _                    (  _  )                    _  |  _ 
+ 6        \                                               /       
+ 7        _  \  _  _  _  _  _  _  _  _  _  _  _  _  _  /  _       
+ 8     /        \  /        (  _  _  _  )        \  /        \    
+ 9     \  _  _  (        o                 o        )  _  _  /    
+     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 
+ 0              /     \  _  _  _  _  _  _  _     /  |  _  \       
+ 1           /                                /  _  /     \  _  _ 
+ 2        /                                         >  _  /     / 
+ 3  _  |  _                                            |  /  |  _ 
+ 4  _  |  _        O              _              O        _  |  _ 
+ 5  _  |  _                    (  _  )                    _  |  _ 
+ 6        \                                               /       
+ 7        _  \  _  _  _  _  _  _  _  _  _  _  _  _  _  /  _       
+ 8     /        \  /        (  _  _  _  )        \  /        \    
+ 9     \  _  _  (        o                 o        )  _  _  /    
+What row is the change in?
+2
+What column is the change in?
+16
+You are correct!
+What would you like to do?
+1. Load ASCII Art from File
+2. Display Art
+3. Play Game
+4. Exit
+3
+     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 
+ 0              /     \  _  _  _  _  _  _  _     /  |  _  \       
+ 1           /                                /  _  /     \  _  _ 
+ 2        /                                         \  _  /     / 
+ 3  _  |  _                                            |  /  |  _ 
+ 4  _  |  _        O              _              O        _  |  _ 
+ 5  _  |  _                    (  _  )                    _  |  _ 
+ 6        \                                               /       
+ 7        _  \  _  _  _  _  _  _  _  _  _  _  _  _  _  /  _       
+ 8     /        \  /        (  _  _  _  )        \  /        \    
+ 9     \  _  _  (        o                 o        )  _  _  /    
+     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 
+ 0              /     \  _  _  _  _  _  _  _     /  |  _  \       
+ 1           /                                /  _  /     \  _  _ 
+ 2        /                                         \  _  /     / 
+ 3  _  |  _                                            |  /  |  _ 
+ 4  _  |  _        O              _              O        _  |  _ 
+ 5  _  |  _                    (  _  )                    _  |  _ 
+ 6        \                                               /       
+ 7        _  \  _  _  _  _  _  _  _  _  _  _  _  _  _  /  6       
+ 8     /        \  /        (  _  _  _  )        \  /        \    
+ 9     \  _  _  (        o                 o        )  _  _  /    
+What row is the change in?
+7
+What column is the change in?
+18
+You are correct!
+What would you like to do?
+1. Load ASCII Art from File
+2. Display Art
+3. Play Game
+4. Exit
+2
+     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 
+ 0              /     \  _  _  _  _  _  _  _     /  |  _  \       
+ 1           /                                /  _  /     \  _  _ 
+ 2        /                                         \  _  /     / 
+ 3  _  |  _                                            |  /  |  _ 
+ 4  _  |  _        O              _              O        _  |  _ 
+ 5  _  |  _                    (  _  )                    _  |  _ 
+ 6        \                                               /       
+ 7        _  \  _  _  _  _  _  _  _  _  _  _  _  _  _  /  _       
+ 8     /        \  /        (  _  _  _  )        \  /        \    
+ 9     \  _  _  (        o                 o        )  _  _  /    
+What would you like to do?
+1. Load ASCII Art from File
+2. Display Art
+3. Play Game
+4. Exit
+1
+What is the name of the data file to import?
+pic2.txt
+Done
+What would you like to do?
+1. Load ASCII Art from File
+2. Display Art
+3. Play Game
+4. Exit
+3
+     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 
+ 0                                               _  _             
+ 1                                            /     _  )          
+ 2                 _  .  -  -  -  -  .  _  /     /                
+ 3              /                             /                   
+ 4     _  _  /     (        |     (        |                      
+ 5  /  _  _  .  -  '  |  _  |  -  -  |  _  |                      
+ 6                                                                
+ 7                                                                
+ 8                                                                
+ 9                                                                
+     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 
+ 0                                               _  _             
+ 1                                            /     _  )          
+ 2                 _  .  -  -  -  -  .  _  /     /                
+ 3              /                             /                   
+ 4     _  _  /     (        |     (        |                      
+ 5  /  _  _  .  -  '  |  _  |  -  -  |  _  |                      
+ 6                                                                
+ 7                                                                
+ 8                                      e                         
+ 9                                                                
+What row is the change in?
+8
+What column is the change in?
+12
+You are correct!
+What would you like to do?
+1. Load ASCII Art from File
+2. Display Art
+3. Play Game
+4. Exit
+4
+Thank you for playing the Spot The Difference Game
